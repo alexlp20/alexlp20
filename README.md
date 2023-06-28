@@ -3,7 +3,7 @@
 ## Skills:
 
 <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26" height=40> <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=CSS3&logoColor=1572B6" height=40> <img src="https://img.shields.io/badge/TailwindCSS-323330?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4" height=40> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=40>
-<img src="https://img.shields.io/badge/reactjs-323330?style=for-the-badge&logo=react&logoColor=61DAFB" height=40><img src="https://img.shields.io/badge/mongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=47A248" height=40> <img src="https://img.shields.io/badge/nextjs-323330?style=for-the-badge&logo=next.js&logoColor=ffffff" height=40>
+<img src="https://img.shields.io/badge/reactjs-323330?style=for-the-badge&logo=react&logoColor=61DAFB" height=40> <img src="https://img.shields.io/badge/mongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=47A248" height=40> <img src="https://img.shields.io/badge/nextjs-323330?style=for-the-badge&logo=next.js&logoColor=ffffff" height=40>
 
 <hr>
 
